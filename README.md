@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## CV
-[LINK](https://drive.google.com/file/d/1Da1S4xI2MXYEwCl_HXr9PrM8L0fu33DP/view?usp=drive_link)
+[LINK](https://flowcv.com/resume/3kruufkdurht)
 
 ## BADGES
 
